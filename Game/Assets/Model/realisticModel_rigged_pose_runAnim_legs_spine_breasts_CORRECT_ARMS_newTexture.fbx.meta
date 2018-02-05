@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: d74db508d337fb94f853af0ab31a8703
+timeCreated: 1517538632
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm_IK.L
+    100002: arm_IK.L_end
+    100004: arm_IK.R
+    100006: arm_IK.R_end
+    100008: arm_lower.L
+    100010: arm_lower.L_end
+    100012: arm_lower.R
+    100014: arm_lower.R_end
+    100016: arm_upper.L
+    100018: arm_upper.R
+    100020: Body
+    100022: Body.001
+    100024: Body.002
+    100026: Body.003
+    100028: breasteBase.L
+    100030: breasteBase.L.001
+    100032: breasteBase.L.001_end
+    100034: breasteBase.R
+    100036: breasteBase.R.001
+    100038: breasteBase.R.001_end
+    100040: elbow.L
+    100042: elbow.L_end
+    100044: elbow.R
+    100046: elbow.R_end
+    100048: foot.L
+    100050: foot.L_end
+    100052: foot.R
+    100054: foot.R_end
+    100056: head
+    100058: head_end
+    100060: hip.L
+    100062: hip.R
+    100064: knee.L
+    100066: knee.L_end
+    100068: knee.R
+    100070: knee.R_end
+    100072: leg_IK.L
+    100074: leg_IK.R
+    100076: leg_lower.L
+    100078: leg_lower.L_end
+    100080: leg_lower.R
+    100082: leg_lower.R_end
+    100084: leg_upper.L
+    100086: leg_upper.R
+    100088: meshRig
+    100090: neck
+    100092: //RootNode
+    100094: root
+    100096: Shirt
+    100098: shoulder.L
+    100100: shoulder.R
+    100102: Sphere
+    100104: spine_chect_upper
+    100106: spine_chect_upper.001
+    100108: spine_chect_upper.002
+    100110: spine_chest_lower
+    100112: spine_stomach_lower
+    100114: spine_stomach_middle
+    100116: spine_stomach_upper
+    400000: arm_IK.L
+    400002: arm_IK.L_end
+    400004: arm_IK.R
+    400006: arm_IK.R_end
+    400008: arm_lower.L
+    400010: arm_lower.L_end
+    400012: arm_lower.R
+    400014: arm_lower.R_end
+    400016: arm_upper.L
+    400018: arm_upper.R
+    400020: Body
+    400022: Body.001
+    400024: Body.002
+    400026: Body.003
+    400028: breasteBase.L
+    400030: breasteBase.L.001
+    400032: breasteBase.L.001_end
+    400034: breasteBase.R
+    400036: breasteBase.R.001
+    400038: breasteBase.R.001_end
+    400040: elbow.L
+    400042: elbow.L_end
+    400044: elbow.R
+    400046: elbow.R_end
+    400048: foot.L
+    400050: foot.L_end
+    400052: foot.R
+    400054: foot.R_end
+    400056: head
+    400058: head_end
+    400060: hip.L
+    400062: hip.R
+    400064: knee.L
+    400066: knee.L_end
+    400068: knee.R
+    400070: knee.R_end
+    400072: leg_IK.L
+    400074: leg_IK.R
+    400076: leg_lower.L
+    400078: leg_lower.L_end
+    400080: leg_lower.R
+    400082: leg_lower.R_end
+    400084: leg_upper.L
+    400086: leg_upper.R
+    400088: meshRig
+    400090: neck
+    400092: //RootNode
+    400094: root
+    400096: Shirt
+    400098: shoulder.L
+    400100: shoulder.R
+    400102: Sphere
+    400104: spine_chect_upper
+    400106: spine_chect_upper.001
+    400108: spine_chect_upper.002
+    400110: spine_chest_lower
+    400112: spine_stomach_lower
+    400114: spine_stomach_middle
+    400116: spine_stomach_upper
+    2300000: Shirt
+    2300002: Sphere
+    3300000: Shirt
+    3300002: Sphere
+    4300000: Sphere
+    4300002: Body.003
+    4300004: Body.002
+    4300006: Body.001
+    4300008: Body
+    4300010: Shirt
+    7400000: meshRig|PoseToRun
+    7400002: meshRig|RunAnim
+    9500000: //RootNode
+    13700000: Body
+    13700002: Body.001
+    13700004: Body.002
+    13700006: Body.003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyes
+    second: {fileID: 2100000, guid: 148018271c1fc9c478f70d81872eec30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyesWhite
+    second: {fileID: 2100000, guid: 86e33989595f06843898f0bbda81a5d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 06a3b613526404a45abe3b53b8ec6cb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 11c25a04eda86be458c71dfbf8ee65b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 7ecf73a8cea52294bbb3853de031ffb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: c667ee2f1efd1d441b4f5f9fe5382a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c43a08f18b7da62448e704c0f18d7e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: c1f7c32359da3434c8bebf0cbe7864f8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: meshRig|PoseToRun
+      takeName: meshRig|PoseToRun
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: meshRig|RunAnim
+      takeName: meshRig|RunAnim
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
